@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp",
+        "string": "cpp",
+        "ostream": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp",
+        "*.tcc": "cpp",
+        "__node_handle": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
